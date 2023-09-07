@@ -1,0 +1,14 @@
+C:\Users\APM02-59\Documents\Proyect--NetCore\ejercicio07\bin\Debug\net7.0\ehercicio07.exe
+C:\Users\APM02-59\Documents\Proyect--NetCore\ejercicio07\bin\Debug\net7.0\ehercicio07.deps.json
+C:\Users\APM02-59\Documents\Proyect--NetCore\ejercicio07\bin\Debug\net7.0\ehercicio07.runtimeconfig.json
+C:\Users\APM02-59\Documents\Proyect--NetCore\ejercicio07\bin\Debug\net7.0\ehercicio07.dll
+C:\Users\APM02-59\Documents\Proyect--NetCore\ejercicio07\bin\Debug\net7.0\ehercicio07.pdb
+C:\Users\APM02-59\Documents\Proyect--NetCore\ejercicio07\obj\Debug\net7.0\ehercicio07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-59\Documents\Proyect--NetCore\ejercicio07\obj\Debug\net7.0\ehercicio07.AssemblyInfoInputs.cache
+C:\Users\APM02-59\Documents\Proyect--NetCore\ejercicio07\obj\Debug\net7.0\ehercicio07.AssemblyInfo.cs
+C:\Users\APM02-59\Documents\Proyect--NetCore\ejercicio07\obj\Debug\net7.0\ehercicio07.csproj.CoreCompileInputs.cache
+C:\Users\APM02-59\Documents\Proyect--NetCore\ejercicio07\obj\Debug\net7.0\ehercicio07.dll
+C:\Users\APM02-59\Documents\Proyect--NetCore\ejercicio07\obj\Debug\net7.0\refint\ehercicio07.dll
+C:\Users\APM02-59\Documents\Proyect--NetCore\ejercicio07\obj\Debug\net7.0\ehercicio07.pdb
+C:\Users\APM02-59\Documents\Proyect--NetCore\ejercicio07\obj\Debug\net7.0\ehercicio07.genruntimeconfig.cache
+C:\Users\APM02-59\Documents\Proyect--NetCore\ejercicio07\obj\Debug\net7.0\ref\ehercicio07.dll
